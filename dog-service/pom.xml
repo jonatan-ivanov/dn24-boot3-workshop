@@ -14,12 +14,6 @@
 		<java.version>17</java.version>
 	</properties>
 	<dependencies>
-		<!-- Runtime -->
-		<dependency>
-			<groupId>org.springframework.boot</groupId>
-			<artifactId>spring-boot-properties-migrator</artifactId>
-			<scope>runtime</scope>
-		</dependency>
 		<!-- Compile -->
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
