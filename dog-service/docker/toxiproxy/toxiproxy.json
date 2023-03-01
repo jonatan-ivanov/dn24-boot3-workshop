@@ -1,0 +1,8 @@
+[
+	{
+		"name": "dog-db",
+		"listen": "[::]:5432",
+		"upstream": "host.docker.internal:5433",
+		"enabled": true
+	}
+]
