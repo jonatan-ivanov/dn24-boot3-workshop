@@ -22,11 +22,11 @@ server:
     include-message: always
 
 management:
-  observations:
-    http:
-      server:
-        requests:
-          name: "http.server.in"
+#  observations:
+#    http:
+#      server:
+#        requests:
+#          name: "http.server.in"
   endpoints:
     web:
       exposure:
